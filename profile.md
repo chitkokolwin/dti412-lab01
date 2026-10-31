@@ -28,6 +28,23 @@ I expect to become familiar with web development and Git.
 
 ## Future Development Plan
 
+-Technical skills I want to improve: Routing, Switching, Security
+-Technologies I want to learn: Cisco Networking, HCIA, Juniper
+-Dream Job Position: Network Engineer
+
+
+# Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+# Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
+
 - Technical skills I want to improve: Routing, Switching, Security
 - Technologies I want to learn: Cisco Networking, HCIA, Juniper
 - Dream Job Position: Network Engineer
