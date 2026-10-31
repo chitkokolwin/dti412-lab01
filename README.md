@@ -1,2 +1,2 @@
-# dti412-lab01-
+# dti412-lab01
 school project 
